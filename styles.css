@@ -78,3 +78,9 @@
 .sidebar .media-item span{font-size:16px}
 
 .sidebar .section-title{font-size:13px}
+
+@media(max-width:520px){
+  .sidebar .intro{margin-bottom:24px}
+  .sidebar .group-link{margin-bottom:12px}
+  .sidebar .portrait{width:210px;align-self:center;margin:0 auto 12px}
+}
